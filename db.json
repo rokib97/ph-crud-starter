@@ -1,0 +1,62 @@
+[
+  {
+    "name": "John Doe",
+    "age": 21,
+    "course": "Web Development",
+    "grade": "A"
+  },
+  {
+    "name": "Jane Smith",
+    "age": 22,
+    "course": "Data Science",
+    "grade": "B"
+  },
+  {
+    "name": "Emily Johnson",
+    "age": 20,
+    "course": "Machine Learning",
+    "grade": "A+"
+  },
+  {
+    "name": "Michael Brown",
+    "age": 23,
+    "course": "Cybersecurity",
+    "grade": "B+"
+  },
+  {
+    "name": "Sarah Wilson",
+    "age": 19,
+    "course": "Artificial Intelligence",
+    "grade": "A"
+  },
+  {
+    "name": "David Miller",
+    "age": 24,
+    "course": "Cloud Computing",
+    "grade": "A-"
+  },
+  {
+    "name": "Sophia Davis",
+    "age": 21,
+    "course": "Web Development",
+    "grade": "B"
+  },
+  {
+    "name": "James Garcia",
+    "age": 22,
+    "course": "Mobile App Development",
+    "grade": "B+"
+  },
+  {
+    "name": "Isabella Martinez",
+    "age": 20,
+    "course": "Blockchain",
+    "grade": "A+"
+  },
+  {
+    "name": "Oliver Taylor",
+    "age": 23,
+    "course": "Data Science",
+    "grade": "A"
+  }
+]
